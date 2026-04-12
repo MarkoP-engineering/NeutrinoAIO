@@ -14,3 +14,4 @@ Place barometer near the sides for airflow
 
 I am currently unsure all of the components will fit on a single 56mm diameter PCB. If not I will consider moving the buck converter and possibly other components onto a separate board 
 and creating a design similar to an FPV stack.
+<img width="2074" height="1639" alt="image" src="https://github.com/user-attachments/assets/d66ac5ef-ab5b-45d6-9343-e991724911a9" />
