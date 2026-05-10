@@ -12,3 +12,11 @@ Features
   - Radio transmitter for broadcasting the location of the rocket for easy recovery
   - Pin interface for expandability using board add-ons
 
+Show below is the schematic for the flight controller:
+
+<img width="1420" height="1417" alt="Screenshot 2026-05-10 220315" src="https://github.com/user-attachments/assets/128b6880-6ac2-49cc-ba4d-d05fc436161d" />
+
+The flight controller will feature a "stack" design utilizing two 4 layer PCBs with one sided assembly to make home assembly possible.
+The stacks will be connected with a cable and will also have an extra connection for future/community expansion boards, allowing for up to 4 SPI modules to be connected (4 IO) ports.
+
+The design should be cheap and relatively easy to assemble at home, allowing more rocket enthusiast to get detailed information from their launches.
